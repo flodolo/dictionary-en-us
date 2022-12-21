@@ -1,0 +1,13 @@
+{
+    "dictionaries": {
+        "en-US": "dictionaries/en-US.dic"
+    },
+    "version": "110.20221230",
+    "browser_specific_settings": {
+        "gecko": {
+            "id": "en-US-mozilla@dictionaries.addons.mozilla.org"
+        }
+    },
+    "name": "English (US) Dictionary",
+    "manifest_version": 2
+}
