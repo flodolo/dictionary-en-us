@@ -2,7 +2,7 @@
     "dictionaries": {
         "en-US": "dictionaries/en-US.dic"
     },
-    "version": "136.20250108",
+    "version": "144.20250826",
     "browser_specific_settings": {
         "gecko": {
             "id": "en-US-mozilla@dictionaries.addons.mozilla.org"
